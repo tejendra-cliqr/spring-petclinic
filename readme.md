@@ -1,6 +1,5 @@
 # Spring PetClinic Sample Application
-
-
+# New
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
