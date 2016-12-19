@@ -1,5 +1,5 @@
 # Spring PetClinic Sample Application
-# test today 26.5 again
+# test today 4.7 again
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
