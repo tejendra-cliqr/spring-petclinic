@@ -1,5 +1,5 @@
 # Spring PetClinic Sample Application
-# test today 4.7 new cents7
+# test today 4.7 new centos7
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
